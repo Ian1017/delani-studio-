@@ -581,8 +581,6 @@ Copyright (c) 2019 Moringa School
 
 
 
-
-
 `
 - `cd hello-world`
 - `atom .`
