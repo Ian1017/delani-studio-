@@ -30,3 +30,14 @@
 .Services p{
   font-size: 20px;
 }
+.what{
+  text-align: center;
+}
+.Contact{
+  text-align: center;
+  color: blanchedalmond;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

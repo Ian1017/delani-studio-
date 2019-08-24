@@ -49,7 +49,7 @@
             </div>
             <div class="col-md-4">
                 <div id="development">
-                    <img src="/assets/services_icons/dev_icon.png"><br>
+                    <img src="../../assets/services_icons/dev_icon.png"><br>
                         <label>DEVELOPMENT</label>
                 </div>
                 <div id="development1">
