@@ -1,19 +1,30 @@
+body{
+  font-family: 'Medula One', cursive;
+}
+p{
+font-size; 20px;
+}
+
 .Welcome{
   background-image: url("../assets/backgrounds/h_img.jpg");
   text-align: center;
   color: blanchedalmond;
+
 }
 .Welcome h1{
-  font-size: 50px;
+  font-size: 70px;
 }
 .Welcome p{
-  font-size: 20px;
+  font-size: 40px;
 }
 .About{
   text-align: center;
 }
 .About h2{
-  font-size: 40px;
+  font-size: 50px;
+}
+.About p{
+  font-size: 20px;
 }
 .Services{
   background-image: url("../assets/backgrounds/s_image.jpg");
@@ -25,19 +36,169 @@
   justify-content: center;
 }
 .Services h2{
-  font-size: 40px;
+  font-size: 50px;
 }
 .Services p{
   font-size: 20px;
 }
-.what{
+.What h1{
   text-align: center;
+  font-size: 50px;
+}
+.What h2{
+  text-align: center;
+  font-size: 20px;
+}
+.What p{
+  font-size: 20px;
+}
+.Portfolio{
+  text-align: center;
+}
+.mk2{
+  text-align: center
 }
 .Contact{
+  background-image: url("../assets/backgrounds/c_image.jpg");
   text-align: center;
   color: blanchedalmond;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  width: 1300px;
+
 }
+.Contact h2{
+    font-size: 50px;
+}
+.Contact form {
+  margin: 0 auto;
+  width: 459px;
+}
+.Contact textarea {
+  width: 439px;
+  height: 300px;
+  background: none;
+  border: 1px solid blanchedalmond;
+  padding: 10px;
+  margin-top: 3px;
+  font-size: 0.9em;
+  color:blanchedalmond;
+  font-size: 30px;
+}
+.Contact #name{
+  float: left;
+  background: none;
+  color: blanchedalmond;
+  font-size: 30px;
+}
+
+.Contact #email{
+  float: right;
+  background: none;
+  color: blanchedalmond;
+  font-size: 30px;
+}
+::placeholder {
+  color: blanchedalmond;
+}
+
+.end h2{
+  text-align: center;
+  font-size: 50px;
+}
+#design1 {
+  display: none;
+}
+#development1{
+  display: none;
+}
+#product1 {
+  display: none;
+}
+
+#text{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text1{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text2{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text3{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text4{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text5{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text6{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
+ #text7{
+  font-size: 20px;
+  background-color:rgba(255,255,255,0.4);
+  height: 300px;
+  top: 1px;
+  left: 15px;
+  width: 450px;
+  display: none;
+  position: absolute;
+  text-align: center;
+ }
