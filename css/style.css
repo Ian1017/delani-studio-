@@ -100,6 +100,10 @@ font-size; 20px;
   color: blanchedalmond;
 }
 
+.row{
+  text-align: center;
+}
+
 .end p{
   text-align: center;
   font-size: 50px;
@@ -201,8 +205,4 @@ font-size; 20px;
   display: none;
   position: absolute;
   text-align: center;
- }
- .row{
-   text-align: center;
-   margin: left;
  }
